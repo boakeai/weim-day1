@@ -1,6 +1,6 @@
-# Ng LazyLoad Starter
+# 快递物品列表
 
-本项目通过最新版 [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1 创建。
+<!-- 本项目通过最新版 [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1 创建。
 
 项目目标
 - 提供**LazyLoad**机制，匹配最新版本Angular的初始化项目包
@@ -48,4 +48,4 @@ Before running the tests make sure you are serving the app via `ng serve`.
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md). -->
