@@ -1,0 +1,35 @@
+.btn-margin {
+    margin-left: 10px;
+}
+
+button {
+    height: 35px;
+    width: 120px;
+    background-color: rgba(255, 92, 92, 0.5);
+    color: white;
+    font-size: 1em;
+    border:none;
+    border-radius: 3px;
+}
+
+button:hover {
+    background-color: rgba(255, 92, 92, 1);
+}
+
+table {
+    width: 100%;
+    border: 1px solid black;
+    margin-top: 10px;
+    text-align: center;
+    border-color: rgba(255, 92, 92, 0.5);
+    background-color:  rgba(255, 92, 92, 0.1);
+}
+
+table th {
+    height: 35px;
+}
+
+table td {
+    height: 35px;
+    font-size: 13px;
+}

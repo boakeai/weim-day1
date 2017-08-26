@@ -1,4 +1,13 @@
-# 快递物品列表
+# Express Delivery System
+
+## Program Goal
+
+- show how many goods
+- add new goods item
+- delete goods item
+- edit goods item
+
+## Contribute by Wei Ming(魏鸣)
 
 <!-- 本项目通过最新版 [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1 创建。
 
