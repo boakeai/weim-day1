@@ -1,11 +1,11 @@
 # Express Delivery System
 
-## Program Goal
+Program Goal
 
-- show how many goods
-- add new goods item
-- delete goods item
-- edit goods item
+- show how many records
+- add new goods records
+- delete unnessercry records
+- edit records
 
 ## Contribute by Wei Ming(魏鸣)
 
